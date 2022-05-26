@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/farik2013/f9a2613c-5cd3-4697-931e-ecdcf3220952/f87a7785-3a9a-4f6f-b49d-fbf86c2ff464/_apis/work/boardbadge/0e89a5fd-a083-4165-a91a-7239dd021910)](https://dev.azure.com/farik2013/f9a2613c-5cd3-4697-931e-ecdcf3220952/_boards/board/t/f87a7785-3a9a-4f6f-b49d-fbf86c2ff464/Microsoft.RequirementCategory)
 # PWABuilder
 
 ### Built with the [PWABuilder PWA Starter](https://github.com/pwa-builder/pwa-starter)
